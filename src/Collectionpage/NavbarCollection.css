@@ -1,0 +1,38 @@
+.nav{
+    display: flex;
+    background: violet;
+    height: 55px;
+    width: 100%;
+  
+}
+.logo{
+   display: inline;
+    height: 70px;
+    width: 70x;
+    color: violet;
+    padding-right: 480px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+.collection{
+    
+    font-size: 20PX;
+}
+.collectionheading{
+    margin-top: 10PX;
+    margin-left: 100px;
+}
+.addbutton{
+    margin-left: 600px;
+}
+
+.add{
+    background: transparent;
+    color: red;
+    font-size: larger;
+    font-weight: bold;
+    padding-top: 22px;
+    border: none;
+    font-size: large;
+    cursor: pointer;
+}

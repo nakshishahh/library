@@ -1,0 +1,60 @@
+.home-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 10px;
+}
+
+.home{
+   margin-top: 10px;
+    height: 400px;
+    width: 250px;
+    border: 2px solid black;
+    border-radius: 2%; 
+    object-fit: contain; 
+}
+
+.home-img{
+    width: 250px;
+    height: 300px;
+    object-fit: cover;
+   
+    
+}
+.details{
+    padding: 0;
+    margin: 0;
+    background: wheat;
+    height: 99.8px;
+}
+.title{
+    text-align: center;
+}
+.margin{
+    padding-top: 10px;
+}
+.author{
+    padding-right: 5px;
+    font-size: medium;
+    font-weight: 700;
+}
+.price{
+    padding-left: 10px;
+    font-weight: 700;
+    font-size: medium;
+}
+.last{
+    padding-top: 10px;
+}
+.buy-rent{
+    padding-right: 5px;
+    font-size:medium ;
+    font-weight: 700;
+}
+.cart{
+    margin-left: 40px;
+    background: green;
+    font-weight: 700;
+    border: 1px solid black;
+    height: 25px;
+    font-size: medium;
+}

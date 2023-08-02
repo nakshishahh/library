@@ -1,0 +1,74 @@
+.nav{
+    display: flex;
+    background: violet;
+    height: 55px;
+    width: 100%;
+  
+}
+.logo{
+   display: inline;
+    height: 70px;
+    width: 70x;
+    color: violet;
+    padding-right: 480px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+.categories{
+    display: inline;
+    padding: 5px;
+    padding-top: 20px;
+    
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+.fic{
+    padding: 30px;
+    font-size: large;
+}
+.adv{
+    padding: 30px;
+    font-size: large;
+}
+.non-fic{
+    padding: 30px;
+    font-size: large;
+}
+.sport{
+    padding: 30px;
+    font-size: large;
+}
+.icons{
+    padding-top: 20px;
+    padding-left: 280px;
+    
+}
+.icon1{
+    padding-right: 20px;
+    font-size: large;
+    cursor: pointer;
+}
+.icon2{
+    padding-right: 20px;
+    font-size: large;
+    cursor: pointer;
+}
+.icon3{
+    padding-right: 20px;
+    font-size: large;
+    cursor: pointer;
+}
+.sell{
+    background: transparent;
+    height: 30px;
+    width: 40px;
+    padding-right: 40px;
+    color: red;
+    font-size: larger;
+    font-weight: bold;
+    padding-top: 22px;
+    border: none;
+    font-size: large;
+    cursor: pointer;
+}

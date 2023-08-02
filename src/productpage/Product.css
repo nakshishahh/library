@@ -1,0 +1,50 @@
+.product{
+    font-size: large;
+}
+.product-img{
+    margin-top: 100px;
+    margin-left: 80px;
+    width: 400px;
+    float: left;
+    padding-right: 200px;
+}
+.content{
+    
+    padding-top: 100px;
+
+}
+.title{
+    margin-right: 170px;
+}
+.description{
+    padding-top: 100px;
+}
+.mvp{
+    margin-top: 10px;
+    
+}
+.genre{
+    padding: 15px;
+    padding-left: 0px;
+    font-weight: bold;
+}
+.authorp{
+    padding: 15px;
+    font-weight: bold;
+}
+.location{
+    padding: 15px;
+    font-weight: bold;
+}
+.button-div{
+    margin-top: 20px;
+}
+.cartp{
+   height: 50px;
+   width: 150px;
+   background: lightgreen;
+   font-weight: bold;
+   font-size: 700;
+
+}
+

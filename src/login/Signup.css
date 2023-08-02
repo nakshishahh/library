@@ -1,0 +1,45 @@
+.wholes{
+    background: lightblue;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.containers{
+    background-color: violet;
+    position: absolute;
+    width: 450px;
+    height: 450px;
+    top: 50%;
+    left: 35%;
+    transform: translate(0, -50%);
+    padding: 10px;
+    text-align: center;
+    
+}
+.lines{
+    height: 1px;
+    background-color : navy;
+    border: none;
+}
+.forms{
+    padding: 50px;
+    
+}
+input {
+    margin-left: 20px;
+}
+.emails{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.registers{
+    margin-top: 50px;
+    height: 40px;
+    width: 140px;
+    font-size: 18px;
+    background-color: transparent;
+    border-radius: 2px;
+    border-color: navy;
+}
+
